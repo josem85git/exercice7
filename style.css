@@ -1,0 +1,17 @@
+.identité {
+background-color: #2574A9;
+
+
+}
+.adresse {
+    background-color: #9A12B3;
+   
+
+}
+.information {
+    background-color: #db0a5b;
+    
+}
+#champAdresse {
+    display:grid;
+}
